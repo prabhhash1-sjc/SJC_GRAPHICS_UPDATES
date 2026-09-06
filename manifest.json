@@ -4,7 +4,7 @@
   "patch_url": "https://github.com/prabhhash1-sjc/SJC_GRAPHICS_UPDATES/releases/download/v2.7.43/SJC_GRAPHICS_PATCH_v2.7.43_V2.zip",
   "sha256": "D7F35CF1596D7F349B4FA87EFCA4FDA09C540CBE69AC5875692A3D3D30925190"
   "channel": "stable",
-  "notes": SJC_GRAPHICS_PATCH_v2.7.43.zip
+  "notes": "SJC GRAPHICS 2.7.43 stable update V2"
   "approved_files": [
     "SJC_GRAPHICS_PRINTING.exe",
     "assets/"
