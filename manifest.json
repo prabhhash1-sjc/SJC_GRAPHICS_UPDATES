@@ -2,7 +2,7 @@
   "product": "SJC GRAPHICS",
   "latest_version": "2.7.44",
   "patch_url": "https://github.com/prabhhash1-sjc/SJC_GRAPHICS_UPDATES/releases/download/V2.7.44/SJC_GRAPHICS_PATCH_v2.7.44.zip",
-  "sha256": "841500A8AD48CE9411174D865644090359924D1236645C26A04AD5B62EA5CADE",
+  "sha256": "F4E2B78F128FAAA8AA245E626FCD69DBB73654322C8107B95134DDD741BC060C",
   "channel": "stable",
   "notes": "SJC GRAPHICS 2.7.44 stable update",
   "approved_files": [
