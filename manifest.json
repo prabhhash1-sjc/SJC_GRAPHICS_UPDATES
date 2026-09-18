@@ -1,10 +1,10 @@
 {
   "product": "SJC GRAPHICS",
-  "latest_version": "2.7.73",
-  "patch_url": "https://github.com/prabhhash1-sjc/SJC_GRAPHICS_UPDATES/releases/download/v2.7.73/SJC_GRAPHICS_PATCH_v2.7.73.zip",
-  "sha256": "D10BAA4091359346DEE27DA7D27DA93EE7BC470D5E647855A472AFEE7793C543",
+  "latest_version": "2.7.74",
+  "patch_url": "https://github.com/prabhhash1-sjc/SJC_GRAPHICS_UPDATES/releases/download/v2.7.74/SJC_GRAPHICS_PATCH_v2.7.74.zip",
+  "sha256": "1D4544B6F17D73F53E4D021B62370F701BDF0C07BEE30CCC0AE4404EF50CFA93",
   "channel": "stable",
-  "notes": "SJC GRAPHICS 2.7.73 stable update",
+  "notes": "SJC GRAPHICS 2.7.74 stable update",
   "approved_files": [
     "SJC_GRAPHICS_PRINTING.exe",
     "assets/"
